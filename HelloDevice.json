@@ -1,8 +1,4 @@
 {
-  "Configurations": [
-    {
-      "Version": "20250310.01",
-      "URL": "https://raw.githubusercontent.com/markleavitt/HDFCT/main/HelloDevice.ino.bin"
-    }
-  ]
+   "Version": "20250310.01",
+   "URL": "https://raw.githubusercontent.com/markleavitt/HDFCT/main/HelloDevice.ino.bin"
 }
